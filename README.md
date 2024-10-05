@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/ratings-card-with-react-and-tailwind-26-MvTRYyB] (https://www.frontendmentor.io/solutions/ratings-card-with-react-and-tailwind-26-MvTRYyB)
 - Live Site URL: [https://thunderous-cajeta-6a91d3.netlify.app](https://thunderous-cajeta-6a91d3.netlify.app)
 
 ## My process
