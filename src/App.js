@@ -32,7 +32,7 @@ function App() {
             <button className={`rounded-full text-sm ${rating === 5 ? 'bg-primary-orange text-neutral-veryDarkBlue' : 'bg-gray-700 hover:bg-white'} text-white w-12 h-12 p-3  hover:text-neutral-veryDarkBlue`} onClick={() => setRating(5)}>5</button>
           </div>
           <div className='w-4/5 mx-auto'>
-            <button className="rounded-2xl w-full font-bold text-md bg-primary-orange text-neutral-veryDarkBlue text-center h-10 mb-7" onClick={handleClick}>SUBMIT</button>
+            <button className="rounded-2xl w-full font-bold text-md bg-primary-orange text-neutral-veryDarkBlue text-center h-10 mb-7 hover:bg-white" onClick={handleClick}>SUBMIT</button>
           </div>
         </div>
         
